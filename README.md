@@ -6,5 +6,5 @@
 
 💞️ I'm open to collaborating on Data Analysis projects.
 
-📫 You can reach me at saikatatmoyna@gmail.com.
+📫 You can reach me at saikatpradhan65@gmail.com.
 
