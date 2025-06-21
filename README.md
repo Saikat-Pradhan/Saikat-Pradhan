@@ -8,8 +8,10 @@
 
 📫 You can reach me at saikatpradhan65@gmail.com.
 
-🟩 HackerRank Profile: https://www.hackerrank.com/saikatpradhan65
+🟢 HackerRank Profile: https://www.hackerrank.com/saikatpradhan65
 
-🔗 LinkedIn Profile: https://www.linkedin.com/in/saikat-pradhan-38765036a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnrUv2emLSnGSwIf6kwWkXw%3D%3D
+🧩 LeetCode Profile: https://leetcode.com/u/Saikat_P/
+
+🔗 LinkedIn Profile: https://www.linkedin.com/in/saikat-pradhan777
 
 
