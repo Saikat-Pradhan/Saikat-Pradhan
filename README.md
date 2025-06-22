@@ -12,6 +12,8 @@
 
 🧩 LeetCode Profile: https://leetcode.com/u/Saikat_P/
 
+💻 GeeksForGeeks Profile: https://www.geeksforgeeks.org/user/saikatprlhch/
+
 🔗 LinkedIn Profile: https://www.linkedin.com/in/saikat-pradhan777
 
 
