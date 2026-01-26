@@ -1,6 +1,6 @@
 ## 👋 About
 
-Hi, I’m @Saikat-Pradhan, a 3rd-year B.Tech Computer Science student
+Hi, I’m [Saikat-Pradhan](https://github.com/Saikat-Pradhan), a 3rd-year B.Tech Computer Science student
 
 👀 Passionate about Data Structures & Algorithms and Data Analytics
 
