@@ -1,21 +1,24 @@
-👋 Hi, I’m @Saikat-Pradhan, a B.Tech Computer Science student (3rd year).
+👋 Hi, I’m @Saikat-Pradhan, a 3rd-year B.Tech Computer Science student
 
-👀 I'm passionate about Data Structures & Algorithms and currently exploring Data Analysis.
+👀 Passionate about Data Structures & Algorithms and exploring Data Analysis
 
-🌱 I'm continuously learning and growing in Computer Science.
+🌱 Constantly learning and growing in Computer Science & Problem Solving
 
-💞️ I'm open to collaborating on Data Analysis projects.
+💞️ Open to collaborating on Data Analysis & CS-related projects
 
-📫 You can reach me at saikatpradhan65@gmail.com.
+📫 Email: saikatpradhan65@gmail.com
 
-⚡ Portfolio Website: saikat-pradhan-portfolio-website.onrender.com
+⚡ Portfolio: https://saikat-pradhan-portfolio-website.onrender.com
 
-🟢 HackerRank Profile: https://www.hackerrank.com/saikatpradhan65
 
-🧩 LeetCode Profile: https://leetcode.com/u/Saikat_P/
+# Coding & Professional Profiles
 
-💻 GeeksForGeeks Profile: https://www.geeksforgeeks.org/user/saikatprlhch/
+🟢 HackerRank: https://www.hackerrank.com/saikatpradhan65
 
-🔗 LinkedIn Profile: https://www.linkedin.com/in/saikat-pradhan777
+🧩 LeetCode: https://leetcode.com/u/Saikat_P/
+
+💻 GeeksforGeeks: https://www.geeksforgeeks.org/user/saikatprlhch/
+
+🔗 LinkedIn: https://www.linkedin.com/in/saikat-pradhan777
 
 
