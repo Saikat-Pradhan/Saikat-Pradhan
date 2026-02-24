@@ -26,21 +26,24 @@ Hi, I’m **[Saikat Pradhan](https://github.com/Saikat-Pradhan)** — a 3rd-year
 ---
 
 ### 📊 Data Science & Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
-![Data Science](https://img.shields.io/badge/Data-Science-blue)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-orange?logo=scikitlearn)
 ![Pandas](https://img.shields.io/badge/Pandas-Analysis-black?logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-Computing-blue?logo=numpy)
+![SciPy](https://img.shields.io/badge/SciPy-Scientific%20Computing-blue?logo=scipy)
+![Statistics](https://img.shields.io/badge/Statistics-Data%20Analysis-purple)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-lightblue)
-![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-red?logo=streamlit)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange?logo=tensorflow)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+![Streamlit](https://img.shields.io/badge/Streamlit-ML%20Apps-red?logo=streamlit)
 
 ---
 
 ### 📈 Data Analytics & Visualization
-![Excel](https://img.shields.io/badge/Excel-Analytics-green?logo=microsoft-excel)
+![Python](https://img.shields.io/badge/Python-Analytics-yellow?logo=python)
+![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green?logo=microsoft-excel)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi)
 ![Tableau](https://img.shields.io/badge/Tableau-Visualization-blue?logo=tableau)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)
 
 ---
 
