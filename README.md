@@ -12,48 +12,48 @@ Hi, I’m **[Saikat Pradhan](https://github.com/Saikat-Pradhan)** — a 3rd-year
 ## 🚀 Tech Stack
 
 ### 💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-Programming-blue?logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-Programming-yellow?logo=python)
+- C++
+- Python
 
 ---
 
 ### 🧠 Core Computer Science
-![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-important)
-![OOP](https://img.shields.io/badge/OOP-Concepts-blueviolet)
-![Operating System](https://img.shields.io/badge/Operating%20Systems-grey)
-![DBMS](https://img.shields.io/badge/DBMS-Database-success)
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Operating Systems
+- Database Management Systems (DBMS)
 
 ---
 
 ### 📊 Data Science & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-Analysis-black?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Computing-blue?logo=numpy)
-![SciPy](https://img.shields.io/badge/SciPy-Scientific%20Computing-blue?logo=scipy)
-![Statistics](https://img.shields.io/badge/Statistics-Data%20Analysis-purple)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
-![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-lightblue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange?logo=tensorflow)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
-![Streamlit](https://img.shields.io/badge/Streamlit-ML%20Apps-red?logo=streamlit)
+- Pandas
+- NumPy
+- SciPy
+- Statistics
+- Matplotlib
+- Seaborn
+- TensorFlow
+- Scikit-learn
+- Streamlit
 
 ---
 
 ### 📈 Data Analytics & Visualization
-![Python](https://img.shields.io/badge/Python-Analytics-yellow?logo=python)
-![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green?logo=microsoft-excel)
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-Visualization-blue?logo=tableau)
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)
+- Python (Data Analysis)
+- Microsoft Excel
+- Power BI
+- Tableau
+- MySQL
 
 ---
 
 ### 🌐 Tools & Development
-![Git](https://img.shields.io/badge/Git-VersionControl-orange?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?logo=visualstudiocode)
-![Google Colab](https://img.shields.io/badge/Google-Colab-yellow?logo=googlecolab)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
-![REST API](https://img.shields.io/badge/REST-API-blue)
+- Git
+- GitHub
+- VS Code
+- Google Colab
+- Jupyter Notebook
+- REST APIs
 
 ---
 
