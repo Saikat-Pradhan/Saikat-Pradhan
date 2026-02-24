@@ -47,6 +47,8 @@ Hi, I’m **[Saikat Pradhan](https://github.com/Saikat-Pradhan)** — a 3rd-year
 ### 🌐 Tools & Development
 ![Git](https://img.shields.io/badge/Git-VersionControl-orange?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?logo=visualstudiocode)
+![Google Colab](https://img.shields.io/badge/Google-Colab-yellow?logo=googlecolab)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 ![REST API](https://img.shields.io/badge/REST-API-blue)
 
