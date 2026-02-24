@@ -1,6 +1,7 @@
 ## 👋 About Me
 
-Hi, I’m **[Saikat Pradhan](https://github.com/Saikat-Pradhan)** — a 3rd-year **B.Tech Computer Science Engineering** student passionate about **Data Science, Machine Learning, Data Analytics, and Problem Solving**.
+Hi, I’m **[Saikat Pradhan](https://github.com/Saikat-Pradhan)** — a 3rd-year **B.Tech Computer Science Engineering** student 
+passionate about **Data Science, Machine Learning, Data Analytics, and Problem Solving**.
 
 💡 Building intelligent data-driven applications  
 📊 Turning data into insights & predictions  
