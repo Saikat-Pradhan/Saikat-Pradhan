@@ -1,15 +1,18 @@
 ## 👋 About Me
 
-Hi, I’m **[Saikat Pradhan](https://github.com/Saikat-Pradhan)** — a 3rd-year **B.Tech Computer Science Engineering** student passionate about **Data Science, Machine Learning, Data Analytics, and Problem Solving**.
+Hi, I’m **[Saikat Pradhan](https://github.com/Saikat-Pradhan)** — a 3rd-year **B.Tech Computer Science Engineering** student passionate about **Data Science, Machine Learning, Data Analytics, Web Development, and Problem Solving**.
 
 💡 Building intelligent data-driven applications  
 📊 Turning data into insights & predictions  
 🚀 Actively developing ML & Full-Stack projects  
-🤝 Open to collaboration on Data Science & AI projects  
+🤝 Open to collaboration on Data Science, AI & Web projects  
+⚡ Focused on efficient, scalable, and logical solutions  
 
 ---
 
 ## 🚀 Tech Stack
+
+---
 
 ### 💻 Programming Languages
 ![C++](https://img.shields.io/badge/C++-Programming-blue?logo=c%2B%2B)
@@ -47,6 +50,28 @@ Hi, I’m **[Saikat Pradhan](https://github.com/Saikat-Pradhan)** — a 3rd-year
 
 ---
 
+### 🌐 Web Development
+
+#### Frontend
+![HTML](https://img.shields.io/badge/HTML5-Markup-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-Styling-blue?logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Framework-purple?logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-UtilityFramework-38B2AC?logo=tailwindcss)
+![React](https://img.shields.io/badge/React-Frontend-blue?logo=react)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green?logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-Framework-black?logo=express)
+
+#### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-darkgreen?logo=mongodb)
+
+#### API & Authentication
+![REST API](https://img.shields.io/badge/REST-API-blue)
+![JWT](https://img.shields.io/badge/JWT-Authentication-purple?logo=jsonwebtokens)
+
+---
+
 ### 🌐 Tools & Development
 ![Git](https://img.shields.io/badge/Git-VersionControl-orange?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)
@@ -68,18 +93,18 @@ https://saikat-pradhan-portfolio-website.onrender.com
 
 ## 💻 Coding Profiles
 
-🟢 HackerRank  
+🟢 **HackerRank**  
 https://www.hackerrank.com/saikatpradhan65  
 
-🧩 LeetCode  
+🧩 **LeetCode**  
 https://leetcode.com/u/Saikat_P/  
 
-💻 GeeksforGeeks  
+💻 **GeeksforGeeks**  
 https://www.geeksforgeeks.org/user/saikatprlhch/  
 
-🔗 LinkedIn  
+🔗 **LinkedIn**  
 https://www.linkedin.com/in/saikat-pradhan777  
 
 ---
 
-⭐ *Passionate about solving real-world problems using Data Science & Intelligent Systems.*
+⭐ *Passionate about solving real-world problems using Data Science, Machine Learning & Full-Stack Development.*
