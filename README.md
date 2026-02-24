@@ -3,7 +3,7 @@
 Hi, I’m **[Saikat Pradhan](https://github.com/Saikat-Pradhan)** — a 3rd-year **B.Tech Computer Science Engineering** student passionate about **Data Science, Machine Learning, Data Analytics, Web Development, and Problem Solving**.
 
 💡 Building intelligent data-driven applications  
-📊 Turning data into insights & predictions  
+📊 Turning data into insights & predictive models  
 🚀 Actively developing ML & Full-Stack projects  
 🤝 Open to collaboration on Data Science, AI & Web projects  
 ⚡ Focused on efficient, scalable, and logical solutions  
@@ -22,21 +22,37 @@ Hi, I’m **[Saikat Pradhan](https://github.com/Saikat-Pradhan)** — a 3rd-year
 
 ### 🧠 Core Computer Science
 ![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-important)
-![OOP](https://img.shields.io/badge/OOP-Concepts-blueviolet)
+![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-blueviolet)
 ![Operating System](https://img.shields.io/badge/Operating%20Systems-grey)
 ![DBMS](https://img.shields.io/badge/DBMS-Database-success)
 
 ---
 
 ### 📊 Data Science & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-Analysis-black?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Computing-blue?logo=numpy)
-![SciPy](https://img.shields.io/badge/SciPy-Scientific%20Computing-blue?logo=scipy)
+
+#### 📈 Probability & Statistics
 ![Statistics](https://img.shields.io/badge/Statistics-Data%20Analysis-purple)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?logo=numpy)
+
+#### 🧹 Data Import & Cleaning
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
+
+#### ⚙️ Data Preprocessing
+![StandardScaler](https://img.shields.io/badge/StandardScaler-Feature%20Scaling-blue)
+![Data Preprocessing](https://img.shields.io/badge/Data-Preprocessing-success)
+
+#### 📊 Data Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-lightblue)
+
+#### 🤖 Model Selection & Training
+![SciPy](https://img.shields.io/badge/SciPy-Scientific%20Computing-blue?logo=scipy)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-MachineLearning-orange?logo=scikitlearn)
+
+#### 🧠 Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange?logo=tensorflow)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+
+#### 🚀 ML Deployment
 ![Streamlit](https://img.shields.io/badge/Streamlit-ML%20Apps-red?logo=streamlit)
 
 ---
@@ -70,15 +86,17 @@ Hi, I’m **[Saikat Pradhan](https://github.com/Saikat-Pradhan)** — a 3rd-year
 ![REST API](https://img.shields.io/badge/REST-API-blue)
 ![JWT](https://img.shields.io/badge/JWT-Authentication-purple?logo=jsonwebtokens)
 
+#### Deployment
+![Render](https://img.shields.io/badge/Render-Deployment-black?logo=render)
+
 ---
 
-### 🌐 Tools & Development
+### 🛠️ Tools & Development
 ![Git](https://img.shields.io/badge/Git-VersionControl-orange?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?logo=visualstudiocode)
 ![Google Colab](https://img.shields.io/badge/Google-Colab-yellow?logo=googlecolab)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
-![REST API](https://img.shields.io/badge/REST-API-blue)
 
 ---
 
@@ -88,6 +106,9 @@ Hi, I’m **[Saikat Pradhan](https://github.com/Saikat-Pradhan)** — a 3rd-year
 
 🌐 **Portfolio:**  
 https://saikat-pradhan-portfolio-website.onrender.com  
+
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/saikat-pradhan777  
 
 ---
 
@@ -101,9 +122,6 @@ https://leetcode.com/u/Saikat_P/
 
 💻 **GeeksforGeeks**  
 https://www.geeksforgeeks.org/user/saikatprlhch/  
-
-🔗 **LinkedIn**  
-https://www.linkedin.com/in/saikat-pradhan777  
 
 ---
 
